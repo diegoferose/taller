@@ -26,8 +26,8 @@ and open the template in the editor.
                        <label>Sexo:  </label> 
                     </td>
                     <td>
-                        <input type="radio" id="radioHombre" name="radio"> Masculino
-                        <input type="radio" id="radioMujer" name="radio"> Femenino
+                        <input type="radio" id="radioHombre" name="radio" value="Masculino"> Masculino
+                        <input type="radio" id="radioMujer" name="radio" value="Femenimo"> Femenino
                     </td>
                 </tr>
                 <tr>
@@ -35,7 +35,7 @@ and open the template in the editor.
                        <label for="inputEdad">Edad</label> 
                     </td>
                     <td>
-                       <input type="number" id="inputEdad" name="inputEdd" placeholder="Digite la edad"> 
+                       <input type="number" id="inputEdad" name="inputEdad" placeholder="Digite la edad"> 
                     </td>
                 </tr>
                 <tr>
