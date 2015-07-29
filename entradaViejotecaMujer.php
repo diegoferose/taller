@@ -17,12 +17,12 @@ and open the template in the editor.
                 <h3>Selecione el tipo de prendas que lleva</h3> 
                 <tr>
                     <td>
-                        <label >Camisa</label> 
+                        <label >Blusa</label> 
                     </td>
                     <td>
                         <select id="blusa" name="blusa">
                             <option value="Blusa escotada">Blusa escotada</option>
-                            <option value="Seria manga corta">Blusa no escotada</option>
+                            <option value="Blusa no escotada">Blusa no escotada</option>
                         </select>  
                     </td>
                 </tr>
