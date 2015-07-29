@@ -9,8 +9,11 @@ $edad =  filter_input(INPUT_POST, 'inputEdad');
      echo "Hola : ".$nombre." bienvenido(a) a la Discoteca";
                               }
  if($edad>=40){
-     if($genero=="masculino"){
+     if($genero=="Masculino"){
          header('Location: entradaViejotecaHombre.php');
                              }
+     else{
+         header('Location: entradaViejotecaMujer.php');
+         }                        
      
              }
