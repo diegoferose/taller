@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <!--
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
@@ -10,7 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <h1>TALLER NUMERO 1</h1>
+        <h2>TALLER NUMERO 1</h2>
           <form action="procesarFormulario.php" method="post">
             <table>
                 <tr>
@@ -44,6 +44,7 @@ and open the template in the editor.
                     </td>   
                 </tr>
             </table> 
+              
         </form>
     </body>
 </html>
